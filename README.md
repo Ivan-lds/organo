@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+🏢 Organo
+📝 Descrição
+Organo é uma aplicação web desenvolvida com React que permite organizar colaboradores em times por área de atuação. O projeto oferece uma interface intuitiva para cadastrar membros da equipe, visualizá-los por categorias e gerenciar a organização de forma eficiente.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Funcionalidades
+👥 Cadastro de colaboradores com nome, cargo e imagem
+🎨 Times personalizados com cores distintas
+📊 Visualização de colaboradores organizados por times
+🖼️ Suporte para imagens de perfil via URL
+📱 Design responsivo para diferentes dispositivos
+🔄 Atualização em tempo real da interface
+🔧 Como utilizar
+Pré-requisitos
+Node.js (versão 14 ou superior)
+npm ou yarn
+Instalação
+Clone este repositório
+Instale as dependências:
+npm install
+# ou
+yarn install
+Executando o projeto
+Inicie a aplicação:
+npm start
+# ou
+yarn start
+Acesse o projeto em: http://localhost:3000
+💻 Tecnologias utilizadas
+React.js
+JavaScript
+CSS3
+HTML5
+Create React App
+🏗️ Estrutura do projeto
+Componentes reutilizáveis
+Gerenciamento de estado com useState
+Formulários controlados
+Renderização condicional
+Props para comunicação entre componentes
+🎯 Times disponíveis
+Programação
+Front-End
+Data Science
+Devops
+UX e Design
+Mobile
+Inovação e Gestão
+📊 Fluxo da aplicação
+O usuário preenche o formulário com dados do colaborador
+Seleciona o time ao qual o colaborador pertence
+Ao cadastrar, o colaborador é adicionado ao time correspondente
+A visualização é atualizada automaticamente
+📚 Aprendizados
+Este projeto demonstra conceitos importantes de React como:
 
-## Available Scripts
+Componentização
+Gerenciamento de estado
+Manipulação de formulários
+Renderização de listas
+Estilização com CSS em componentes
+Passagem de props
+📋 Pré-requisitos
+Navegador web moderno (Chrome, Firefox, Safari, Edge)
+Conexão com internet para carregar imagens externas
+🛠️ Melhorias futuras
+Persistência de dados com localStorage ou backend
+Edição e remoção de colaboradores
+Criação de novos times personalizados
+Modo escuro
+Filtros de busca
+🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desenvolvido como parte do curso da Alura 🎓
